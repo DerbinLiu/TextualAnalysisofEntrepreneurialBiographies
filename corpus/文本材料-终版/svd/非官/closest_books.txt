@@ -1,0 +1,40 @@
+ SV 1
+传奇许家印  最帅的地产大亨.txt
+销售女神董明珠.txt
+Dan-Steinbock-The-Nokia-revolution_-the-story-of-an-extraordinary-company-that-transformed-an-indust.txt
+-------------------------------
+ SV 2
+李书福传-by 王保蘅.txt
+Saudi_-Inc.-The-Arabian-Kingdom’s-Pursuit-of-Profit-and-Power-by-Ellen-R.-Wald-_z-lib.org_.txt
+The king-of-content-Sumner-Redstones-battle-for-Viacom_-CBS_-and-everlasting-control-of-his-media-em.txt
+-------------------------------
+ SV 3
+Decoding Coca-Cola A Biography of a Global Brand by Robert Crawford, Linda Brennan and Susie Khamis (z-lib.org).txt
+The Arms-of-Krupp_-1587-1968-The-Rise-and-Fall-of-the-Industrial-Dynasty-that-Armed-Germany-at-War-b.txt
+The partnership-the-making-of-Goldman-Sachs-by-Goldman_-SachsCo.Ellis_-Charles.txt
+-------------------------------
+ SV 4
+地产狂人许家印.txt
+Decoding Coca-Cola A Biography of a Global Brand by Robert Crawford, Linda Brennan and Susie Khamis (z-lib.org).txt
+Renewing Unilever Transformation and Tradition by Geoffrey Jones (z-lib.org).txt
+-------------------------------
+neg SV 1
+Elon-Musk-a-mission-to-save-the-world-_Anna-Crowley-Redding.txt
+Amazon-Unbound-Jeff-Bezos-and-the-Invention-of-a-Global-Empire-by-Stone_-Brad-_z-lib.org_.txt
+The Anglo-American Establishment by Carroll Quigley.txt
+-------------------------------
+neg SV 2
+The-King-of-Oil-The-Secret-Lives-of-Marc-Rich-by-Ammann_-Daniel.txt
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+创业之神：三星创始人李秉喆传.txt
+-------------------------------
+neg SV 3
+At-the-Oceans-Edge-A-History-of-Nova-Scotia-to-Confederation-_Studies-in-Atlantic-Canada-History_-by_1.txt
+Money-and-Power-How-Goldman-Sachs-Came-to-Rule-the-World-by-William-D.-Cohan-_z-lib.org_.txt
+John Chambers and the Cisco Way Navigating Through Volatility by John K. Waters (z-lib.org).txt
+-------------------------------
+neg SV 4
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+李嘉诚全传-by-陈美华-辛磊.txt
+Titan-The-Life-of-John-D.-Rockefeller_-Sr.-by-Ron-Chernow-_z-lib.org_.txt
+-------------------------------
