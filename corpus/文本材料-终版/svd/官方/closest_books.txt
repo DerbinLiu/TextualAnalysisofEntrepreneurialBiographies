@@ -1,0 +1,40 @@
+ SV 1
+格力模式.txt
+Personal History by Katharine Graham.txt
+Damn-Right-Behind-the-Scenes-With-Berkshire-Hathaway-Billionaire.txt
+-------------------------------
+ SV 2
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+Insane-Mode-How-Elon-Musk’s-Tesla-Sparked-an-Electric-Revolution-to-End-the-Age-of-Oil-_Hamish-McKen.txt
+Vaxxers The Inside Story of the Oxford AstraZeneca Vaccine and the Race Against the Virus.txt
+-------------------------------
+ SV 3
+腾讯传.txt
+Abbott-A Promise For Life.txt
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+-------------------------------
+ SV 4
+格力模式.txt
+Steve-Jobs-The-Authorized-Biography-by-Isaacson_-Walter.txt
+决断——汽车巨子丰田英二.txt
+-------------------------------
+neg SV 1
+这就是马云.txt
+Moonshot-Inside-Pfizers-Nine-Month-Race-to-Make-the-Impossible-Possible-by-Dr.-ALbert-Bourla.txt
+华为传（2020）.txt
+-------------------------------
+neg SV 2
+Idea-Man-A-Memoir-by-the-Cofounder-of-Microsoft-by-Paul-Allen.txt
+决断——汽车巨子丰田英二.txt
+The Autobiography of Christian Dior by Christian Dior.txt
+-------------------------------
+neg SV 3
+Father_-Son-Co-My-Life-at-IBM-and-Beyond-by-Watson_-Thomas.txt
+Softwar-An-Intimate-Portrait-of-Larry-Ellison-and-Oracle-by-Symonds_-Matthew.txt
+稻盛和夫自传.txt
+-------------------------------
+neg SV 4
+The Autobiography of Christian Dior by Christian Dior.txt
+The Magna Man My Road to Economic Freedom by Stronach, Frank.txt
+How-Google-Works-by-Eric-Schmidt_-Jonathan-Rosenberg-_z-lib.org_.txt
+-------------------------------
