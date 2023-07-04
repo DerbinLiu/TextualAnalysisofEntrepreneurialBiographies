@@ -1,0 +1,40 @@
+ SV 1
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+The-King-of-Oil-The-Secret-Lives-of-Marc-Rich-by-Ammann_-Daniel.txt
+Damn-Right-Behind-the-Scenes-With-Berkshire-Hathaway-Billionaire.txt
+-------------------------------
+ SV 2
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+Amazon-Unbound-Jeff-Bezos-and-the-Invention-of-a-Global-Empire-by-Stone_-Brad-_z-lib.org_.txt
+Personal History by Katharine Graham.txt
+-------------------------------
+ SV 3
+Softwar-An-Intimate-Portrait-of-Larry-Ellison-and-Oracle-by-Symonds_-Matthew.txt
+Father_-Son-Co-My-Life-at-IBM-and-Beyond-by-Watson_-Thomas.txt
+Money-and-Power-How-Goldman-Sachs-Came-to-Rule-the-World-by-William-D.-Cohan-_z-lib.org_.txt
+-------------------------------
+ SV 4
+Renewing Unilever Transformation and Tradition by Geoffrey Jones (z-lib.org).txt
+Decoding Coca-Cola A Biography of a Global Brand by Robert Crawford, Linda Brennan and Susie Khamis (z-lib.org).txt
+Bill-Gates-A-Biography-_Becraft_-Michael_-_z-lib.org_.txt
+-------------------------------
+neg SV 1
+Dan-Steinbock-The-Nokia-revolution_-the-story-of-an-extraordinary-company-that-transformed-an-indust.txt
+Mauro F. Guillen, Adrian Tschoegl - Building a Global Bank_ The Transformation of Banco Santander (2008) - libgen.lc.txt
+The-Lion-Wakes-A-Modern-History-of-HSBC-by-David-Kynaston-Richard-Roberts-_z-lib.org_.txt
+-------------------------------
+neg SV 2
+Idea-Man-A-Memoir-by-the-Cofounder-of-Microsoft-by-Paul-Allen.txt
+For-God_-Country_-and-Coca-Cola-The-Definitive-History-of-the-Great-American-Soft-Drink-and-the-Comp.txt
+Higher-100-Years-of-Boeing-by-Russ-Banham-_z-lib.org_.txt
+-------------------------------
+neg SV 3
+Decoding Coca-Cola A Biography of a Global Brand by Robert Crawford, Linda Brennan and Susie Khamis (z-lib.org).txt
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+The Arms-of-Krupp_-1587-1968-The-Rise-and-Fall-of-the-Industrial-Dynasty-that-Armed-Germany-at-War-b.txt
+-------------------------------
+neg SV 4
+Titan-The-Life-of-John-D.-Rockefeller_-Sr.-by-Ron-Chernow-_z-lib.org_.txt
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+It's My Retirement Money—Take Good Care Of It The TIAA-CREF Story.txt
+-------------------------------
