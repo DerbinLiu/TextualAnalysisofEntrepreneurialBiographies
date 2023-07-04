@@ -1,0 +1,40 @@
+ SV 1
+传奇许家印  最帅的地产大亨.txt
+销售女神董明珠.txt
+Dan-Steinbock-The-Nokia-revolution_-the-story-of-an-extraordinary-company-that-transformed-an-indust.txt
+-------------------------------
+ SV 2
+The-King-of-Oil-The-Secret-Lives-of-Marc-Rich-by-Ammann_-Daniel.txt
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+创业之神：三星创始人李秉喆传.txt
+-------------------------------
+ SV 3
+腾讯传.txt
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+Abbott-A Promise For Life.txt
+-------------------------------
+ SV 4
+Decoding Coca-Cola A Biography of a Global Brand by Robert Crawford, Linda Brennan and Susie Khamis (z-lib.org).txt
+Bill-Gates-A-Biography-_Becraft_-Michael_-_z-lib.org_.txt
+地产狂人许家印.txt
+-------------------------------
+neg SV 1
+Personal History by Katharine Graham.txt
+格力模式.txt
+Ugly-Beauty-Helena-Rubinstein_-LOréal_-and-the-Blemished-History-of-Looking-Good-by-Ruth-Brandon-_z-.txt
+-------------------------------
+neg SV 2
+The Power of Goal ZERO_ Results Focused Leadership for Achieving Superior Perfor.txt
+Insane-Mode-How-Elon-Musk’s-Tesla-Sparked-an-Electric-Revolution-to-End-the-Age-of-Oil-_Hamish-McKen.txt
+The king-of-content-Sumner-Redstones-battle-for-Viacom_-CBS_-and-everlasting-control-of-his-media-em.txt
+-------------------------------
+neg SV 3
+Softwar-An-Intimate-Portrait-of-Larry-Ellison-and-Oracle-by-Symonds_-Matthew.txt
+海尔转型-by-仰锋-_z-lib.org_.txt
+John Chambers and the Cisco Way Navigating Through Volatility by John K. Waters (z-lib.org).txt
+-------------------------------
+neg SV 4
+格力模式.txt
+Titan-The-Life-of-John-D.-Rockefeller_-Sr.-by-Ron-Chernow-_z-lib.org_.txt
+腾讯传.txt
+-------------------------------
